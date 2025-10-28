@@ -1,0 +1,13 @@
+body {
+  background: linear-gradient(135deg, #e0f7fa, #fff);
+  font-family: "Poppins", sans-serif;
+}
+
+h1 {
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.1);
+}
+
+button:hover {
+  transform: scale(1.05);
+  transition: 0.3s;
+}
